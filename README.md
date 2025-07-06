@@ -1,3 +1,7 @@
+![Screenshot 2025-07-06 181301](https://github.com/user-attachments/assets/0bd8740f-5f1e-4f6d-b86e-3266a3ad5656)
+![Screenshot 2025-07-06 181241](https://github.com/user-attachments/assets/e0bdb77d-10aa-4ff0-a41e-8c3c9cc8f7a1)
+![Screenshot 2025-07-06 181219](https://github.com/user-attachments/assets/69874e53-805d-459e-820a-98759be7f9b5)
+![Screenshot 2025-07-06 181159](https://github.com/user-attachments/assets/11c0756c-649e-401f-8ba3-71714afd6f7d)
 #  COVID-19 Detection & Forecasting
 
 This project performs a complete data analysis and forecasting of COVID-19 cases using Python. It includes visual exploration, trend analysis, and future predictions for confirmed cases and deaths using time series models.
